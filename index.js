@@ -2,13 +2,19 @@
 process.noDeprecation = true;
 process.removeAllListeners('warning');
 
+// ───────────────────────────────────────────────
+// Mini Express Web Server (for UptimeRobot pings)
+// ───────────────────────────────────────────────
+import express from 'express';
+const app = express();
+const PORT = process.env.PORT || 3000;
+
 app.get('/', (req, res) => res.send('Bot is running.'));
 app.listen(PORT, () => console.log(`🌐 Keep-alive server listening on port ${PORT}`));
 
 // ───────────────────────────────────────────────
 // FRC Rank Bot — Main Entry File
 // ───────────────────────────────────────────────
-
 import { Client, GatewayIntentBits, REST, Routes, Collection } from 'discord.js';
 import fs from 'fs';
 import path from 'path';
