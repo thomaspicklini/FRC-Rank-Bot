@@ -2,6 +2,9 @@
 process.noDeprecation = true;
 process.removeAllListeners('warning');
 
+app.get('/', (req, res) => res.send('Bot is running.'));
+app.listen(PORT, () => console.log(`🌐 Keep-alive server listening on port ${PORT}`));
+
 // ───────────────────────────────────────────────
 // FRC Rank Bot — Main Entry File
 // ───────────────────────────────────────────────
