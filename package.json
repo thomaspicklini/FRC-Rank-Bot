@@ -10,11 +10,11 @@
     "test": "echo \"No tests defined\" && exit 0"
   },
   "keywords": ["discord", "bot", "frc", "rankbot"],
-  "author": "Thomas Picklini",
+    "author": "Thomas Picklini",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.24.2",
-    "dotenv": "^17.2.3"
+    "dotenv": "^17.2.3",
     "express": "^4.19.2"
   },
   "devDependencies": {
