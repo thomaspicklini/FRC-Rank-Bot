@@ -1,0 +1,69 @@
+{
+  "1229270897626452038": {
+    "userId": "1229270897626452038",
+    "username": "thomaspicklini",
+    "displayName": "Thomas Picklini",
+    "rank": "E-1 | Recruit",
+    "notes": [
+      {
+        "text": "Rank changed: O-8 → E-1 — by Thomas Picklini",
+        "addedBy": "Thomas Picklini",
+        "timestamp": "2025-11-03T00:47:13.652Z"
+      },
+      {
+        "text": "Rank changed: E-1 → E-1 — by Thomas Picklini",
+        "addedBy": "Thomas Picklini",
+        "timestamp": "2025-11-03T02:05:31.948Z"
+      },
+      {
+        "text": "Rank changed: E-1 | Recruit → E-1 | Recruit — by Thomas Picklini",
+        "addedBy": "Thomas Picklini",
+        "timestamp": "2025-11-03T02:18:06.886Z"
+      }
+    ],
+    "specializations": [
+      "32ci",
+      "32a",
+      "32f",
+      "32m"
+    ]
+  },
+  "1351498570381004882": {
+    "userId": "1351498570381004882",
+    "username": "PawLuck",
+    "displayName": "PawLuck",
+    "rank": "E-1 | Recruit",
+    "notes": [
+      {
+        "text": "Onboarded at E-1 | Recruit — by Thomas Picklini",
+        "addedBy": "Thomas Picklini",
+        "timestamp": "2025-11-03T01:24:26.917Z"
+      }
+    ],
+    "specializations": []
+  },
+  "1351512148026851401": {
+    "userId": "1351512148026851401",
+    "username": "PawLuck Dev",
+    "displayName": "PawLuck Dev",
+    "rank": "E-1 | Recruit",
+    "notes": [
+      {
+        "text": "Onboarded at E-1 | Recruit — by Thomas Picklini",
+        "addedBy": "Thomas Picklini",
+        "timestamp": "2025-11-03T01:31:08.270Z"
+      }
+    ],
+    "specializations": []
+  },
+  "1434628592968536114": {
+    "userId": "1434628592968536114",
+    "username": "FRC Tracker",
+    "displayName": "FRC Tracker",
+    "rank": "E-1 | Recruit",
+    "notes": [],
+    "specializations": [
+      "32f"
+    ]
+  }
+}

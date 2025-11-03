@@ -1,0 +1,82 @@
+{
+  "32ci": {
+    "name": "BASIC OPERATOR",
+    "description": "test desc",
+    "sop": "test sop",
+    "radio": "test radio",
+    "terms": "test terms",
+    "training": "test training"
+  },
+  "32a": {
+    "name": "ANTI-ARMOR SPECIALIST",
+    "description": "",
+    "sop": "",
+    "radio": "",
+    "terms": "",
+    "training": ""
+  },
+  "32f": {
+    "name": "MACHINE GUNNER",
+    "description": "",
+    "sop": "",
+    "radio": "",
+    "terms": "",
+    "training": ""
+  },
+  "32m": {
+    "name": "MEDIC",
+    "description": "",
+    "sop": "",
+    "radio": "",
+    "terms": "",
+    "training": ""
+  },
+  "32r": {
+    "name": "RECON",
+    "description": "",
+    "sop": "",
+    "radio": "",
+    "terms": "",
+    "training": ""
+  },
+  "32e": {
+    "name": "EXPLOSIVE TECHNICIAN",
+    "description": "",
+    "sop": "",
+    "radio": "",
+    "terms": "",
+    "training": ""
+  },
+  "32v": {
+    "name": "ARMORED VEHICLE OPERATOR",
+    "description": "",
+    "sop": "",
+    "radio": "",
+    "terms": "",
+    "training": ""
+  },
+  "32p": {
+    "name": "ROTARY WING PILOT",
+    "description": "",
+    "sop": "",
+    "radio": "",
+    "terms": "",
+    "training": ""
+  },
+  "31s": {
+    "name": "SQUAD LEADER",
+    "description": "",
+    "sop": "",
+    "radio": "",
+    "terms": "",
+    "training": ""
+  },
+  "31p": {
+    "name": "PLATOON LEADER",
+    "description": "",
+    "sop": "",
+    "radio": "",
+    "terms": "",
+    "training": ""
+  }
+}
